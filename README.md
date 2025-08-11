@@ -14,6 +14,6 @@
 📌 Localização: Moçambique  
 📈 Em breve compartilharei projetos de análise de dados e modelos preditivos voltados à realidade local.
 
-📫 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/NevesCossa)
+📫 Conecte-se comigo no #Linkedin: https://www.linkedin.com/NevesCossa
 
 _"Dados são o novo petróleo, e eu estou aprendendo a refiná-los."_
